@@ -5,5 +5,5 @@ The manager of the pizza place, Plato's Pizza, has the transactional data for th
 3.	What are our best and worst selling pizzas?
 4.	What's our average order value?  
 
-A dashboard is created in Excel to answer the these questions.  
+A dashboard is created in Excel to answer these questions.  
 The data is collected from Maven Analytics website which was published as a part of Maven Pizza Challenge.
